@@ -1,0 +1,17 @@
+{
+  "high_turn": 3,
+  "history": [
+    {
+      "turn": 2,
+      "round": 1,
+      "total_score": 131.0,
+      "target_score": 150
+    },
+    {
+      "turn": 3,
+      "round": 1,
+      "total_score": 299.0,
+      "target_score": 200
+    }
+  ]
+}
